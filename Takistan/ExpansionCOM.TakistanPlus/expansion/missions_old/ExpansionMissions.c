@@ -10,13 +10,13 @@
  *
 */
 
-#include "$CurrentDir:\\mpmissions\\DayZExpansion.ChernarusPlus\\missions\\ExpansionLoot.c"
+#include "$CurrentDir:\\mpmissions\\DayZExpansion.TakistanPlus\\missions\\ExpansionLoot.c"
 
-#include "$CurrentDir:\\mpmissions\\DayZExpansion.ChernarusPlus\\missions\\spawns\\ExpansionMissionOne.c"
-#include "$CurrentDir:\\mpmissions\\DayZExpansion.ChernarusPlus\\missions\\spawns\\ExpansionMissionTwo.c"
-#include "$CurrentDir:\\mpmissions\\DayZExpansion.ChernarusPlus\\missions\\spawns\\ExpansionMissionThree.c"
-#include "$CurrentDir:\\mpmissions\\DayZExpansion.ChernarusPlus\\missions\\spawns\\ExpansionMissionFour.c"
-#include "$CurrentDir:\\mpmissions\\DayZExpansion.ChernarusPlus\\missions\\spawns\\ExpansionMissionFive.c"
+#include "$CurrentDir:\\mpmissions\\DayZExpansion.TakistanPlus\\missions\\spawns\\ExpansionMissionOne.c"
+#include "$CurrentDir:\\mpmissions\\DayZExpansion.TakistanPlus\\missions\\spawns\\ExpansionMissionTwo.c"
+#include "$CurrentDir:\\mpmissions\\DayZExpansion.TakistanPlus\\missions\\spawns\\ExpansionMissionThree.c"
+#include "$CurrentDir:\\mpmissions\\DayZExpansion.TakistanPlus\\missions\\spawns\\ExpansionMissionFour.c"
+#include "$CurrentDir:\\mpmissions\\DayZExpansion.TakistanPlus\\missions\\spawns\\ExpansionMissionFive.c"
 
 void SpawnMissions()
 {

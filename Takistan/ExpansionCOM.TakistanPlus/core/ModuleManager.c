@@ -1,9 +1,9 @@
-#include "$CurrentDir:missions\\ExpansionCOM.ChernarusPlus\\core\\Module.c"
-#include "$CurrentDir:missions\\ExpansionCOM.ChernarusPlus\\core\\KeyMouseBinding.c"
+#include "$CurrentDir:missions\\ExpansionCOM.TakistanPlus\\core\\Module.c"
+#include "$CurrentDir:missions\\ExpansionCOM.TakistanPlus\\core\\KeyMouseBinding.c"
 
-#include "$CurrentDir:missions\\ExpansionCOM.ChernarusPlus\\core\\modules\\ComEditor\\module.c"
-#include "$CurrentDir:missions\\ExpansionCOM.ChernarusPlus\\core\\modules\\ComKeyBinds\\module.c"
-#include "$CurrentDir:missions\\ExpansionCOM.ChernarusPlus\\core\\modules\\DebugMonitor\\module.c"
+#include "$CurrentDir:missions\\ExpansionCOM.TakistanPlus\\core\\modules\\ComEditor\\module.c"
+#include "$CurrentDir:missions\\ExpansionCOM.TakistanPlus\\core\\modules\\ComKeyBinds\\module.c"
+#include "$CurrentDir:missions\\ExpansionCOM.TakistanPlus\\core\\modules\\DebugMonitor\\module.c"
 
 class COM_KeyMouseActionType
 {

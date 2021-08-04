@@ -1,1 +1,1 @@
-#include "$CurrentDir:missions\\ExpansionCOM.ChernarusPlus\\core\\modules\\ComKeybinds\\COMKeyBinds.c"
+#include "$CurrentDir:missions\\ExpansionCOM.TakistanPlus\\core\\modules\\ComKeybinds\\COMKeyBinds.c"
