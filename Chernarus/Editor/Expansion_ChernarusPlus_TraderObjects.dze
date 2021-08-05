@@ -7384,8 +7384,8 @@
             "Flags": 2147483647
         },
         {
-            "Type": "Fireplace",
-            "DisplayName": "Fireplace",
+            "Type": "bldr_fireplace",
+            "DisplayName": "bldr_fireplace",
             "Position": [
                 11849.658203125,
                 140.6151123046875,

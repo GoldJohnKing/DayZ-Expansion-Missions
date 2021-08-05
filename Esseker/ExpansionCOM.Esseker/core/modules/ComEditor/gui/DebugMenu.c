@@ -22,7 +22,7 @@ class DebugMenu extends PopupMenu
 		Class.CastTo( m_MarkerModule, GetModuleManager().GetModule( ExpansionMarkerModule ) );
 
 		
-		IconArr = new ref array<string>;
+		IconArr = new array<string>;
 		IconArr.Insert("Arrow");
 		IconArr.Insert("Error");
 		IconArr.Insert("Airdrop");
@@ -166,7 +166,7 @@ class DebugMenu extends PopupMenu
 		IconArr.Insert("Wild Pork");
 		IconArr.Insert("Worms");
 
-		ColorArr = new ref array<int>;
+		ColorArr = new array<int>;
 		ColorArr.Insert(COLOR_EXPANSION_ITEM_HIGHLIGHT_TEXT);
 		ColorArr.Insert(COLOR_EXPANSION_ITEM_NORMAL_TEXT);
 		ColorArr.Insert(COLOR_EXPANSION_ITEM_HIGHLIGHT_ELEMENT);
@@ -189,7 +189,7 @@ class DebugMenu extends PopupMenu
 		ColorArr.Insert(GetExpansionSettings().GetGeneral().PartyChatColor);
 		ColorArr.Insert(GetExpansionSettings().GetGeneral().TransmitterChatColor);
 
-		ColorNameArr = new ref array<string>;
+		ColorNameArr = new array<string>;
 		ColorNameArr.Insert("ITEM_HIGHLIGHT_TEXT");
 		ColorNameArr.Insert("ITEM_NORMAL_TEXT");
 		ColorNameArr.Insert("ITEM_HIGHLIGHT_ELEMENT");

@@ -31,7 +31,7 @@ class COMEditorMenu extends UIScriptedMenu
 	
 	override Widget Init()
 	{
-		layoutRoot 				= GetGame().GetWorkspace().CreateWidgets( "$CurrentDir:missions\\ExpansionCOM.ChernarusPlus\\core\\modules\\ComEditor\\gui\\layouts\\EditorMenu.layout" );
+		layoutRoot 				= GetGame().GetWorkspace().CreateWidgets( "$CurrentDir:missions\\ExpansionCOM.Chiemsee\\core\\modules\\ComEditor\\gui\\layouts\\EditorMenu.layout" );
 
 		m_ObjectButton   		= ButtonWidget.Cast( layoutRoot.FindAnyWidget("objects_button") );
 		m_PositionButton 		= ButtonWidget.Cast( layoutRoot.FindAnyWidget("position_button") );
@@ -40,13 +40,13 @@ class COMEditorMenu extends UIScriptedMenu
 		m_MatButton	 			= ButtonWidget.Cast( layoutRoot.FindAnyWidget("mat_button") );
 		m_ObjectEditorButton 	= ButtonWidget.Cast( layoutRoot.FindAnyWidget( "objectEditor_button" ) );
 
-		m_aiMenu   				= GetGame().GetWorkspace().CreateWidgets( "$CurrentDir:missions\\ExpansionCOM.ChernarusPlus\\core\\modules\\ComEditor\\gui\\layouts\\AIMenu.layout", layoutRoot );
-		m_objectMenu   			= GetGame().GetWorkspace().CreateWidgets( "$CurrentDir:missions\\ExpansionCOM.ChernarusPlus\\core\\modules\\ComEditor\\gui\\layouts\\ObjectMenu.layout", layoutRoot );
-		m_weatherMenu  			= GetGame().GetWorkspace().CreateWidgets( "$CurrentDir:missions\\ExpansionCOM.ChernarusPlus\\core\\modules\\ComEditor\\gui\\layouts\\WeatherMenu.layout", layoutRoot );
-		m_positionMenu 			= GetGame().GetWorkspace().CreateWidgets( "$CurrentDir:missions\\ExpansionCOM.ChernarusPlus\\core\\modules\\ComEditor\\gui\\layouts\\PositionMenu.layout", layoutRoot );
-		m_gameMenu 	   			= GetGame().GetWorkspace().CreateWidgets( "$CurrentDir:missions\\ExpansionCOM.ChernarusPlus\\core\\modules\\ComEditor\\gui\\layouts\\GameMenu.layout", layoutRoot );
-		m_matMenu 	   			= GetGame().GetWorkspace().CreateWidgets( "$CurrentDir:missions\\ExpansionCOM.ChernarusPlus\\core\\modules\\ComEditor\\gui\\layouts\\CameraMenu.layout", layoutRoot );
-		m_objectInfoMenu 		= GetGame().GetWorkspace().CreateWidgets( "$CurrentDir:missions\\ExpansionCOM.ChernarusPlus\\core\\modules\\ComEditor\\gui\\layouts\\ObjectEditorInfo.layout", layoutRoot );
+		m_aiMenu   				= GetGame().GetWorkspace().CreateWidgets( "$CurrentDir:missions\\ExpansionCOM.Chiemsee\\core\\modules\\ComEditor\\gui\\layouts\\AIMenu.layout", layoutRoot );
+		m_objectMenu   			= GetGame().GetWorkspace().CreateWidgets( "$CurrentDir:missions\\ExpansionCOM.Chiemsee\\core\\modules\\ComEditor\\gui\\layouts\\ObjectMenu.layout", layoutRoot );
+		m_weatherMenu  			= GetGame().GetWorkspace().CreateWidgets( "$CurrentDir:missions\\ExpansionCOM.Chiemsee\\core\\modules\\ComEditor\\gui\\layouts\\WeatherMenu.layout", layoutRoot );
+		m_positionMenu 			= GetGame().GetWorkspace().CreateWidgets( "$CurrentDir:missions\\ExpansionCOM.Chiemsee\\core\\modules\\ComEditor\\gui\\layouts\\PositionMenu.layout", layoutRoot );
+		m_gameMenu 	   			= GetGame().GetWorkspace().CreateWidgets( "$CurrentDir:missions\\ExpansionCOM.Chiemsee\\core\\modules\\ComEditor\\gui\\layouts\\GameMenu.layout", layoutRoot );
+		m_matMenu 	   			= GetGame().GetWorkspace().CreateWidgets( "$CurrentDir:missions\\ExpansionCOM.Chiemsee\\core\\modules\\ComEditor\\gui\\layouts\\CameraMenu.layout", layoutRoot );
+		m_objectInfoMenu 		= GetGame().GetWorkspace().CreateWidgets( "$CurrentDir:missions\\ExpansionCOM.Chiemsee\\core\\modules\\ComEditor\\gui\\layouts\\ObjectEditorInfo.layout", layoutRoot );
 
 		return layoutRoot;
 	}
