@@ -10,12 +10,14 @@
  *
 */
 
+#ifdef EXPANSIONMOD
 #include "$CurrentDir:\\mpmissions\\Expansion.Chiemsee\\expansion\\missions\\MissionConstructor.c"
+#endif
 
 void main()
 {
-	bool loadTraderObjects = false;
-	bool loadTraderNPCs = false;
+	bool loadTraderObjects = true;
+	bool loadTraderNPCs = true;
 
 	string MissionWorldName = "empty";
 	GetGame().GetWorldName(MissionWorldName);
@@ -63,8 +65,11 @@ void main()
 			}
 		}
 	}
-	//GetCEApi().ExportProxyData( "5120 0 5120", 11000 );  			// Generate mapgrouppos.xml
-	//GetCEApi().ExportClusterData();								// Generate mapgroupcluster.xml
+
+	//! Uncomment these lines if you want to export custom loot data
+    //TestHive.ExportProxyProto();
+    //TestHive.ExportProxyData("5120 0 5120", 11000);
+    //TestHive.ExportClusterData();
 }
 
 /**@class		CustomExpansionMission
@@ -94,6 +99,9 @@ class CustomMission: MissionServer
 		}
 	}
 	
+	// ------------------------------------------------------------
+	// Override OnInit
+	// ------------------------------------------------------------	
 	override void OnInit()
 	{
 		ExpansionMissionModule missionModule;

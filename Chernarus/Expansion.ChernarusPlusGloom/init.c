@@ -13,8 +13,8 @@
 
 void main()
 {
-	bool loadTraderObjects = false;
-	bool loadTraderNPCs = false;
+	bool loadTraderObjects = true;
+	bool loadTraderNPCs = true;
 
 	string MissionWorldName = "empty";
 	GetGame().GetWorldName(MissionWorldName);

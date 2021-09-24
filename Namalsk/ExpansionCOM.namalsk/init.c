@@ -1,5 +1,7 @@
 #include "$CurrentDir:\\Missions\\ExpansionCOM.Namalsk\\core\\BaseModuleInclude.c"
+#ifdef EXPANSIONMOD
 #include "$CurrentDir:\\Missions\\ExpansionCOM.Namalsk\\expansion\\missions\\MissionConstructor.c"
+#endif
 
 Mission CreateCustomMission(string path)
 {
@@ -17,7 +19,7 @@ void main()
 	if (MissionWorldName != "empty")
 	{
 		//! Spawn mission objects and traders
-		ExpansionObjectSpawnTools.FindMissionFiles("$CurrentDir:\\mpmissions\\ExpansionCOM." + MissionWorldName, loadTraderObjects, loadTraderNPCs);
+		ExpansionObjectSpawnTools.FindMissionFiles("$CurrentDir:\\Missions\\ExpansionCOM." + MissionWorldName, loadTraderObjects, loadTraderNPCs);
 	}
 	
 	//! Init server central economy

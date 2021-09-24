@@ -13,8 +13,8 @@
 
 void main()
 {
-	bool loadTraderObjects = false;
-	bool loadTraderNPCs = false;
+	bool loadTraderObjects = true;
+	bool loadTraderNPCs = true;
 
 	string MissionWorldName = "empty";
 	GetGame().GetWorldName(MissionWorldName);
@@ -24,8 +24,6 @@ void main()
 		//! Spawn mission objects and traders
 		ExpansionObjectSpawnTools.FindMissionFiles("$CurrentDir:\\mpmissions\\Expansion." + MissionWorldName, loadTraderObjects, loadTraderNPCs);
 	}
-
-	//! This code need to be on the top of the function "main", everything else will be under this line
 }
 
 class CustomMission: MissionServer
@@ -42,6 +40,23 @@ class CustomMission: MissionServer
 		}
 	}
 
+	// ------------------------------------------------------------
+	// Override OnInit
+	// ------------------------------------------------------------
+	override void OnInit()
+	{
+		ExpansionMissionModule missionModule;
+		if ( Class.CastTo( missionModule, GetModuleManager().GetModule( ExpansionMissionModule ) ) )
+		{
+			missionModule.SetMissionConstructor( COMMissionConstructor );
+		}
+
+		super.OnInit();
+	}
+
+	// ------------------------------------------------------------
+	// StartingEquipSetup
+	// ------------------------------------------------------------
 	//! This function already exist in your file, replace/update it with this one
 	override void StartingEquipSetup(PlayerBase player, bool clothesChosen)
 	{

@@ -9,7 +9,6 @@
  * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.
  *
 */
-
 #include "$CurrentDir:\\mpmissions\\Expansion.ChernarusPlus\\expansion\\missions\\MissionConstructor.c"
 
 void main()
@@ -28,9 +27,7 @@ void main()
 
 	//INIT WEATHER BEFORE ECONOMY INIT------------------------
 	Weather weather = g_Game.GetWeather();
-
 	weather.MissionWeather(false);    // false = use weather controller from Weather.c
-
 	weather.GetOvercast().Set( Math.RandomFloatInclusive(0.4, 0.6), 1, 0);
 	weather.GetRain().Set( 0, 0, 1);
 	weather.GetFog().Set( Math.RandomFloatInclusive(0.05, 0.1), 1, 0);

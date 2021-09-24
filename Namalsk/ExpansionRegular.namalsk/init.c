@@ -9,13 +9,12 @@
  * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.
  *
 */
-
 #include "$CurrentDir:\\mpmissions\\ExpansionRegular.namalsk\\expansion\\missions\\MissionConstructor.c"
 
 void main()
 {
-	bool loadTraderObjects = false;
-	bool loadTraderNPCs = false;
+	bool loadTraderObjects = true;
+	bool loadTraderNPCs = true;
 
 	string MissionWorldName = "empty";
 	GetGame().GetWorldName(MissionWorldName);
@@ -91,6 +90,12 @@ class CustomMission: MissionServer
 	// ------------------------------------------------------------
 	override void OnInit()
 	{
+		ExpansionMissionModule missionModule;
+		if ( Class.CastTo( missionModule, GetModuleManager().GetModule( ExpansionMissionModule ) ) )
+		{
+			missionModule.SetMissionConstructor( COMMissionConstructor );
+		}
+
 		super.OnInit();
 
 		// this piece of code is recommended otherwise event system is switched on automatically and runs from default values
@@ -141,7 +146,10 @@ class CustomMission: MissionServer
 
 				itemEnt = itemClothing.GetInventory().CreateInInventory( "Rag" );
 				if ( Class.CastTo( itemBs, itemEnt ) )
+				{
 					itemBs.SetQuantity( 4 );
+					itemBs.SetCleanness( 1 );
+				}
 				player.SetQuickBarEntityShortcut( itemEnt, 0 );
 
 				SetRandomHealth( itemEnt );

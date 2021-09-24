@@ -28,8 +28,8 @@ void SpawnObject( string type, vector position, vector orientation )
 
 void main()
 {
-	bool loadTraderObjects = false;
-	bool loadTraderNPCs = false;
+	bool loadTraderObjects = true;
+	bool loadTraderNPCs = true;
 
 	string MissionWorldName = "empty";
 	GetGame().GetWorldName(MissionWorldName);
@@ -78,10 +78,10 @@ void main()
 		}
 	}
 	
-     // CEApi TestHive = GetCEApi();
-     // TestHive.ExportProxyProto();
-     // TestHive.ExportProxyData( "8096 0 8096", 16384 );
-     // TestHive.ExportClusterData() ;
+    //CEApi TestHive = GetCEApi();
+    //TestHive.ExportProxyProto();
+	//TestHive.ExportProxyData("8096 0 8096", 16384);
+    //TestHive.ExportClusterData();
 }
 
 class CustomMission: MissionServer
