@@ -1,7 +1,4 @@
 #include "$CurrentDir:\\Missions\\ExpansionCOM.TakistanPlus\\core\\BaseModuleInclude.c"
-#ifdef EXPANSIONMOD
-#include "$CurrentDir:\\Missions\\ExpansionCOM.TakistanPlus\\expansion\\missions\\MissionConstructor.c"
-#endif
 
 Mission CreateCustomMission(string path)
 {

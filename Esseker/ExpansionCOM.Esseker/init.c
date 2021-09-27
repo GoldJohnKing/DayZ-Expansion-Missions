@@ -1,9 +1,5 @@
 #include "$CurrentDir:\\Missions\\ExpansionCOM.Esseker\\core\\BaseModuleInclude.c"
 
-#ifdef EXPANSIONMOD
-#include "$CurrentDir:\\Missions\\ExpansionCOM.Esseker\\expansion\\missions\\MissionConstructor.c"
-#endif
-
 Mission CreateCustomMission(string path)
 {
 	return new CommunityOfflineClient();

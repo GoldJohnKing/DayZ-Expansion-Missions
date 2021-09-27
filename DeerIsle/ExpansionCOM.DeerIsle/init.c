@@ -1,9 +1,5 @@
 #include "$CurrentDir:\\Missions\\ExpansionCOM.DeerIsle\\core\\BaseModuleInclude.c"
 
-#ifdef EXPANSIONMOD
-#include "$CurrentDir:\\Missions\\ExpansionCOM.DeerIsle\\expansion\\missions\\MissionConstructor.c"
-#endif
-
 Mission CreateCustomMission(string path)
 {
 	return new CommunityOfflineClient();
