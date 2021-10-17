@@ -10,6 +10,8 @@
  *
 */
 
+#include "$CurrentDir:mpmissions/ExpansionRegular.namalsk/eAI/AI_init.c" // Edited: Add eAI support
+
 void main()
 {
 	bool loadTraderObjects = true;
@@ -70,6 +72,8 @@ void main()
 		
 		GetGame().GetWorld().SetDate( year, month, day, hour, minute );
 	}
+
+	InitDynamicPatrols(); // Edited: Add eAI support
 };
 
 class CustomMission: MissionServer
