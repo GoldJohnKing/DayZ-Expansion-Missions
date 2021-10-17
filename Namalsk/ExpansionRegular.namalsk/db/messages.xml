@@ -10,7 +10,7 @@
  
         <!-- if the value is larger than 0, then flag Countdown is enabled,
              countdown reaches zero in 10 hours --> 
-        <deadline>480</deadline>
+        <deadline>1437</deadline><!-- Edited: Change server shutdown time -->
  
         <!-- disable On connect flag -->
         <onconnect>0</onconnect>
@@ -19,6 +19,6 @@
         <shutdown>1</shutdown>
  
         <!-- message itself with placeholders -->
-        <text>This server will restart in #tmin minutes.</text>
+        <text>服务器将于 #tmin 分钟后重启。</text><!-- Edited: Translate server shutdown notification -->
     </message>
 </messages>
