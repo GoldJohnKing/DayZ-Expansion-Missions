@@ -37,9 +37,9 @@ ref array<string> patrol_loadouts = {"HumanLoadout.json", "HumanLoadout.json", "
 // you may change these quantities
 // const int NUMBER_PER_PATROL = 2;	// Number of AI per patrol
 const int MIN_NUMBER_PER_PATROL = 2;// Min Number of AI per patrol
-const int MAX_NUMBER_PER_PATROL = 8;// Max Number of AI per patrol
+const int MAX_NUMBER_PER_PATROL = 12;// Max Number of AI per patrol
 const int MAXR = 800;				// This is the main spawn radius- how close a player needs to be to spawn them in.
-const int MINR = 1;				// If a player is this close to the patrol start point, it is too close for them to spawn 250
+const int MINR = 250;				// If a player is this close to the patrol start point, it is too close for them to spawn
 const int DESPAWNR = 1000;			// If all players are this far away, they despawn.
 const int RESPAWN_SECONDS = 300;	// The amount of seconds before a new patrol will spawn, after they both die
 
@@ -47,14 +47,14 @@ class CustomPatrol : eAIDynamicPatrol {
 	override void OnPatrolSpawn(eAIGroup patrol) {
 		// Uncomment this line to change the faction of the patrol from Raiders (default)
 		// eAIFactionGuards for example is a faction which only kills players who have their weapons out
-		// patrol.SetFaction(new eAIFactionGuards());
+		patrol.SetFaction(new eAIFactionEast());
 		
 		// Uncomment this line to slow down or speed up the patrol (1.0 to 3.0)
-		// patrol.SetSpeedLimit(1.0);
+		patrol.SetSpeedLimit(1.5);
 	}
 	override void OnUnitSpawn(eAIBase unit) {
 		// Uncomment this to give the AI unlimited magazines (new one is added on reload)
-		// unit.SetUnlimitedMags(true);
+		unit.SetUnlimitedMags(true);
 		
 		// You can also do anything you would do in the StartingEquipSetup() for players here
 		
