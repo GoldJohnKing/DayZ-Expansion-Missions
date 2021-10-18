@@ -1,46 +1,113 @@
-// Patrol 1 = C-130J Mohawk (Round)
-ref array<vector> patrol_1  = {"3078.090088 65.293503 7394.220215", "3167.229980 116.821999 7509.049805", "3155.260010 82.078400 7644.479980", "3432.030029 154.507996 7847.330078", "3648.330078 117.306000 7812.060059", "3240.830078 120.564003 7408.750000"};
+// Patrol 1 = Northern Coast (Start NW Vorkuta, moves East along coastline)
+ref array<vector> patrol_1  = {"6307.7 14.4 11810.6", "6307.7 14.4 11810.6", "6519.9 17.3 11901.6", "6967.4 6.5 11884.6", "7216.6 10.147 11843.1", "7405.78 23.18 11655.8"};
 
-// Patrol 2 = BK-L02 -> Norinsk -> BK-L01 -> BK-L02 (Oneway)
-ref array<vector> patrol_2  = {"3393.802002 216.550186 6698.749512", "3517.686035 213.678970 6719.540527", "3632.270508 53.070175 7273.449707", "3964.170654 53.062160 7519.124512", "4251.949219 90.382050 7478.775391", "4214.509766 110.509315 7349.731445", "4291.556152 147.184647 7199.421875", "4305.645020 208.473068 7016.327637", "4128.867188 248.371170 6956.963379", "3936.215088 289.232452 6819.745117", "4004.111328 331.814819 6747.199219", "3991.938721 344.498596 6700.253418", "4051.425537 358.524536 6716.588379", "4069.760986 374.284821 6656.544922", "4183.197266 376.224304 6705.777832", "4180.617188 390.347107 6635.567871", "4149.875000 386.177002 6552.099121", "4070.531982 375.015869 6633.440918", "3469.341309 216.441086 6711.363281"};
+// Patrol 2 = North-East Coast (Start near Jalovisko, move to Nemsk)
+ref array<vector> patrol_2  = {"8510.71 24.93 11206.7", "8540.64 22.32 11194.5", "8574.5 9.39 10920.4", "8802.46 10.11 10769.4", "8873.11 13.77 10685.6", "8890.29 6.23 10555.2", "8977.91 2.77 10509.2", "9058.68 11.20 10220.1"};
 
-// Patrol 3 = Athena-1 -> Athena Research Institute -> Sebjan uranium mine -> Athena Research Institute (Oneway)
-ref array<vector> patrol_3  = {"3777.833252 145.217743 8240.898438", "3843.265381 143.280426 8110.847656", "4087.479248 104.556610 8259.345703", "4111.199219 81.995590 8077.016113", "4376.924805 78.257950 8113.003906", "4513.637207 87.008820 8213.384766", "4719.384277 66.928635 8208.403320", "4891.209473 47.742962 8234.052734", "4908.197266 40.528229 8148.349121", "4981.178711 42.482212 8084.999512", "4991.773926 50.026421 8035.669434", "5035.154785 50.077705 8033.326172", "5033.877441 50.070194 8005.983398", "4997.916504 50.070171 7995.354004", "4726.006836 50.070171 8007.655762", "4708.885254 50.070168 8033.196777", "4633.921875 52.362080 8094.874512", "4470.291016 66.183838 8078.878906", "4417.566406 71.342819 8038.833984", "4260.494141 78.192810 8013.042480", "4239.707031 78.174500 8034.312500", "4151.215820 77.982040 8024.972656"};
+// Patrol 3 = Lubjansk Peninsula (start on Peninsula, circle through forest near docks)
+ref array<vector> patrol_3  = {"5028.91 7.42 11359.5", "4971.8 9.96 11305.5", "4852.96 13.88 11257.2", "4727.41 14.78 11099.7", "4690.78 21.86 10948.9", "4513.78 22.17 10819", "4332.31 15.53 11054.3", "4269.85 9.43 11046"};
 
-// Patrol 4 = BK-T12 -> warehouses -> refugee camp -> Sebjan Valley -> Sebjan (Oneway)
-ref array<vector> patrol_4  = {"4711.093262 23.533356 8946.583008", "4765.607910 24.894646 8887.312500", "4708.622559 34.505383 8806.928711", "4592.577637 25.167702 8816.408203", "4586.832520 41.261459 8937.309570", "5073.806152 74.056885 8933.460938", "5112.505859 72.821030 8882.672852", "5198.280762 72.120178 8912.425781", "5218.521484 74.012177 9007.275391", "5440.251465 43.030556 9010.418945", "5530.345703 24.156637 8863.311523", "5362.744629 39.090614 8700.002930", "5296.095703 38.821266 8690.768555", "5267.273438 37.394051 8637.318359", "5221.829102 36.148621 8634.565430", "5204.306152 31.114609 8556.631836", "5174.622070 31.080208 8525.291016", "4142.282715 110.511169 9154.503906", "4082.541016 70.407211 9214.393555", "4062.223633 62.693306 9281.182617", "4200.496094 45.564339 9378.648438", "4763.567383 69.598663 9307.289063", "4793.512207 59.654968 9222.173828", "4702.142578 35.220863 9021.359375"};
+// Patrol 4 = BK-M06 Patrol (Military outpost near Lubjansk)
+ref array<vector> patrol_4  = {"4752.82 16.23 10793", "4737.23 19.81 10929.3", "4864.45 12.85 10940.4", "4923.05 12.97 10930.4", "4966.14 5.66 10835.2", "5082.28 18.09 10772.2", "4916.4 8.33 10634", "4705.7 28.36 10597.9"};
 
-// Patrol 5 = Brensk bridge -> Athena-2 -> Norinsk pass -> Norinsk SW (Oneway)
-ref array<vector> patrol_5  = {"4987.564453 4.683476 6054.358398", "4853.202637 41.057117 6044.706055", "4847.727539 41.070171 6128.111816", "4850.686523 41.070171 6286.907715", "5005.839844 36.941551 6424.391602", "5013.198730 47.263039 6558.929199", "4940.419434 46.144943 6574.166504", "4939.392578 45.505386 6656.089844", "4919.314941 46.926689 6698.620117", "4512.479980 127.105507 7173.420410", "3879.992676 136.612183 7150.586914"};
+// Patrol 5 = Lubjansk Bay/Harbour Patrol
+ref array<vector> patrol_5  = {"4492.01 3.43 10429.7", "4533.44 5.01 10371.7", "4624.5 13.35 10400.1", "4865.77 10.34 10446.7", "4964.16 2.78 10533.5", "5129.82 9.57 10510.6", "5315.19 15.77 10591", "5493.19 5.28 10593", "5524.4 14.20 10447.9", "5483.9 21.08 10348.9", "5389.42 4.64 10169.5", "5547.42 5.48 10047", "5637.03 1.09 9960", "5650.19 2.91 9899.06", "5574.11 8.27 9843.13", "5343.65 10.77 9940.64", "5154.59 14.7 9905.64", "4920.51 11.26 9685.87", "4749.81 7.86 9834.98", "4795.58 6.04 10146.9", "4580.36 6.88 10154", "4398.7 5.98 10033.1"};
 
-// Patrol 6 = Sebjan NE factory -> airfield -> airfield E factory (Oneway)
-ref array<vector> patrol_6  = {"5850.081543 50.880180 8654.901367", "5839.887695 50.880150 8627.157227", "5760.064941 51.031853 8633.012695", "5739.439453 51.265854 8662.543945", "5755.725098 51.112129 8708.367188", "5800.091309 50.940170 8708.150391", "5822.798340 50.815758 8722.108398", "5902.938477 50.603127 8725.295898", "6037.283691 49.773804 8758.367188", "6028.128418 31.015015 8947.883789", "6180.341309 17.660164 9136.058594", "6195.185547 20.039970 9196.079102", "6312.769531 21.060177 9330.003906", "6363.047363 21.019501 9329.530273", "6405.163086 16.247253 9276.082031", "6454.127441 14.435493 9239.048828", "6547.919922 14.853851 9242.208008", "6582.532715 14.049721 9342.934570", "6513.775391 15.664871 9347.395508", "6509.349121 16.070145 9308.082031", "6447.384277 16.070168 9315.314453", "6442.640625 16.070076 9295.205078"};
+// Patrol 6 = Jalovisko Hills
+ref array<vector> patrol_6  = {"7736.24 34.47 11101.1", "7972.38 42.78 11177.4", "8109.29 47.17 11141.5", "8139.28 62 11225.6", "8037.13 68.67 11230.1", "7681.98 50.46 11256", "7592.17 49.84 11260.9"};
 
-// Patrol 7 = Airfield (Round)
-ref array<vector> patrol_7  = {"6310.031738 20.793083 9506.778320", "6314.012207 20.927742 9410.721680", "6292.844727 21.124870 9374.169922", "6300.708496 21.287247 9285.318359", "6298.062988 21.861359 9203.721680", "6249.024414 21.067837 9130.515625", "6195.429199 19.542007 9132.354492", "6200.881348 21.070171 9637.040039", "6265.148926 20.366356 9646.448242", "6286.812012 20.840179 9513.142578"};
+// Patrol 7 = Vorkuta Main Road
+ref array<vector> patrol_7  = {"6802.86 15.01 11660.4", "6867.16 15.13 11475", "6829.18 15.12 11427.5", "6762.64 15.01 11304.2", "6710.69 15 11202.7", "6607.51 15.2 10994", "6628.24 15.94 10943.1", "6637.26 16.12 10924.8", "6580.29 20.79 10864.8"};
 
-// Patrol 8 = Sebjan uranium mine (Round)
-ref array<vector> patrol_8  = {"4859.082520 50.070183 8017.309082", "4857.448242 50.403732 8094.886719", "4900.966309 49.095650 8095.227051", "4900.017578 50.170223 8062.192871", "4971.578125 49.199295 8061.024902", "5004.256836 50.232948 8036.102051", "5011.339355 48.975220 8064.893066", "5149.176270 48.691456 8065.986328", "5164.453125 47.741638 8127.135254", "5124.542480 39.916267 8208.465820", "4980.168945 39.229332 8207.407227", "4979.954102 39.240173 8145.547363", "5025.865723 39.232449 8145.182129", "5026.909668 39.223232 8104.922363", "4976.906738 40.486446 8097.297852", "4991.758789 50.066978 8037.251465", "4969.770020 49.821495 8036.314453", "4964.993652 50.070221 7980.308594", "5035.000977 50.070175 7977.264648", "5041.107422 50.070168 7949.762207", "5092.800293 50.278717 7950.616211", "5091.935547 50.363098 7922.006348", "5055.836426 50.370201 7902.479004", "4886.869629 50.070194 7904.023438", "4777.690430 50.070171 7922.907227", "4822.447266 50.070194 7915.459473", "4886.264160 50.070175 7914.264648", "4886.227539 50.070206 7960.535156"};
+// Patrol 8 = Airfield
+ref array<vector> patrol_8  = {"6376.3 22.89 9650.62", "6299.63 19.28 9694.18", "6135.96 17.31 9704.13", "6064.14 39.22 8918.15", "6308.52 29.24 8881.95", "6411.7 26.49 9017.66", "6483.11 26.26 9107.48", "6605.98 17.06 9356.12"};
 
-// Patrol 9 = BK-L16 (Round)
-ref array<vector> patrol_9  = {"5948.777832 24.863945 6575.919922", "6023.031738 18.387100 6560.706055", "6036.284180 12.679619 6634.106934", "6024.555664 8.944038 6715.132324", "5978.022461 11.233353 6746.880371", "5960.551758 16.761986 6665.936523", "6013.598145 16.468964 6653.561523", "6012.500977 19.690796 6579.291992", "5962.636230 20.270210 6585.746094", "5966.539063 20.169090 6628.640625", "5991.414063 20.129425 6624.559082", "6010.893066 19.748154 6573.460938", "6008.758301 19.277985 6563.625488", "5947.815430 24.218155 6579.753418", "5952.553711 14.252663 6700.819824", "5980.235352 11.222183 6745.635742", "6026.602051 8.962662 6711.416504", "6040.827148 12.248970 6636.096191", "6019.707520 18.721237 6560.716309", "5950.970703 23.669060 6577.228027"};
+// Patrol 9 = Refugee Camp Inland Patrol
+ref array<vector> patrol_9  = {"5034.13 36.52 9117.81", "5326.09 75.86 9221.08", "5342.26 58.02 8983.35", "5057.2 69.22 8829.69", "4835.11 51.91 9184.57"};
 
-// Patrol 10 = Brensk (Round)
-ref array<vector> patrol_10 = {"4309.340820 3.429489 4742.458984", "4198.282715 7.392342 4756.496094", "4182.395508 7.876397 4816.900391", "4194.674805 19.683617 4934.847168", "4267.532715 39.510040 5011.942383", "4372.978516 39.396370 5009.154785", "4509.147461 27.601799 4995.718750", "4519.764160 12.573730 4877.314453", "4370.107910 4.319169 4795.840820", "4338.464844 4.310181 4754.301758"};
+// Patrol 10 = Sebjan Marsh Patrol
+ref array<vector> patrol_10 = {"7052.16 6.39 10051.4", "6997.08 4.0 10063.2", "6955.39 4.45 9904.53", "6881.63 5.3 9743.56", "6760.12 9.25 9758.2", "6686.01 11.36 9858.15", "6658.22 9.26 9958.59", "6762.43 7.05 10087"};
+
+// Patrol 11 = Nijita Mountain
+ref array<vector> patrol_11 = {"4756.11 153.16 7399.41", "5243.13 209.35 7437.1", "5272.81 271.206 7190.86", "5270.04 256.98 7017.9", "5456.37 196.30 6618.96", "5677.01 107.66 6280.14"};
+
+// Patrol 12 = Seraja Mountain
+ref array<vector> patrol_12 = {"4201.64 391.47 6570.05", "4309.57 371.59 6585.19", "4264.02 305.90 6852.5", "4035.5 325.52 6773.95", "4058.64 317.40 6822.45"};
+
+// Patrol 13 = Seraja Ridgeline Snipers
+ref array<vector> patrol_13 = {"2978.1 310.64 6463.28", "3006.3 313.78 6490.7", "3113.89 293.54 6523", "3304.95 245.41 6610.9"};
+
+// Patrol 14 = Object BK-T12 to Athena-1 Ridgeline Patrol
+ref array<vector> patrol_14 = {"4197.2 152.994 9081.46", "4236.83 185.96 9006.5", "4113.6 190.756 8782.55", "3857.55 170.21 8361.71"};
+
+// Patrol 15 = C130 Crash to Athena-1 Ridgeline Patrol
+ref array<vector> patrol_15 = {"3302.49 134.54 7595.55", "3629.9 187.79 8016.34", "3717.06 176.894 8129.19"};
+
+// Patrol 16 = Inland Forest Ghillie Bandits (near Athena Research/Uranium Mine)
+ref array<vector> patrol_16 = {"4717.86 111.52 7672.94", "4311.87 129.89 7290.57", "3958.02 106.42 7239.99", "3499.03 139.88 6967.42", "3240.25 104.45 7299.5", "3662.37 90.21 7627.72", "3895.5 78.88 7776.37"};
+
+// Patrol 17 = Tara North Peninsula
+ref array<vector> patrol_17 = {"7671.4 75.96 8643.82", "7867.4 41.8 8563.62", "7968.19 30 8887.57", "7699.5 47.78 9120.63", "7312.1 26.6 8972.65"};
+
+// Patrol 18 = Tara Port
+ref array<vector> patrol_18 = {"7973.68 3.93 7430.08", "7735.84 54.31 7202.23", "7477.49 72.2477 7486.18", "7665.53 33.30 7918.47", "7886.6 3.20 7997.02"};
+
+// Patrol 19 = Tara Land Bridge
+ref array<vector> patrol_19 = {"6749.29 6.97 8339.34", "6512.17 3.42 8492.16", "6408.78 5.56 8611.87"};
+
+// Patrol 20 = Sebjan Dam Patrol
+ref array<vector> patrol_20 = {"5301.82 58.87 9602.39", "5548.07 43.18 9543.59", "5725.36 19.7 9450.14", "5476.45 29.84 9738.32"};
+
+// Patrol 21 = TF Bering Patrol
+ref array<vector> patrol_21 = {"1197.73 2 11635.4", "1352.84 2 11604", "1352.76 2 11960.4", "1111.03 2 12009.2", "1113.48 8.92 11898.3"};
+
+// Patrol 22 = Object A2 Ghillie Bandits
+ref array<vector> patrol_22 = {"5407.11 65.41 6072.06", "5246 40.67 6230.45", "4805 88.73 6460.97", "4785.95 96.61 6655.96"};
+
+// Patrol 23 = Ice Shelf Patrol (SouthEast of TF Bering)
+ref array<vector> patrol_23 = {"2914.75 4.57 11032.5", "2442.75 2 11160.6", "1997.79 2 10807", "2762.99 2 10394.4"};
+
+// Patrol 24 = Vorkuta East Forest Hunters
+ref array<vector> patrol_24 = {"5305.6 40.85 10803.6", "5611.07 47.78 10952.4", "5718.27 58.28 11090.8", "6141.22 7.7 11587.3"};
 
 // If you add another patrol array, add it to this list
-ref array<array<vector>> patrol_list = {patrol_1, patrol_2, patrol_3, patrol_4, patrol_5, patrol_6, patrol_7, patrol_8, patrol_9, patrol_10};
+ref array<array<vector>> patrol_list = {patrol_1, patrol_2, patrol_3, patrol_4, patrol_5, patrol_6, patrol_7, patrol_8, patrol_9, patrol_10, patrol_11, patrol_12, patrol_13, patrol_14, patrol_15, patrol_16, patrol_17, patrol_18, patrol_19, patrol_20, patrol_21, patrol_22, patrol_23, patrol_24};
 
 // IMPORTANT: If you add an entry to the above list, pick the loadout for it by adding the loadout filename to this list
-ref array<string> patrol_loadouts = {"HumanLoadout.json", "HumanLoadout.json", "HumanLoadout.json", "HumanLoadout.json", "HumanLoadout.json", "HumanLoadout.json", "HumanLoadout.json", "HumanLoadout.json", "HumanLoadout.json", "HumanLoadout.json"};
+ref array<string> patrol_loadouts = {
+	"CoastLoadout.json", //Patrol 01 - Northern Coast
+	"CoastLoadout.json", //Patrol 02 - North-East Coast
+	"CoastLoadout.json", //Patrol 03 - Lubjansk Peninsula
+	"SoldierLoadout.json", //Patrol 04 - BK-M06
+	"CoastLoadout.json", //Patrol 05 - Lubjansk Bay/Harbour Patrol
+	"HunterLoadout.json", //Patrol 06 - Jalovisko Hills
+	"CoastLoadout.json", //Patrol 07 - Vorkuta Main Road
+	"SoldierLoadout.json", //Patrol 08 - Airfield
+	"HunterLoadout.json", //Patrol 09 - Refugee Camp Inland Patrol
+	"SoldierLoadout.json", //Patrol 10 - Sebjan Marsh Patrol
+	"ArcticSniper.json", //Patrol 11 - Nijita Mountain
+	"ArcticSoldier.json", //Patrol 12 - Seraja Mountain
+	"ArcticSniper.json", //Patrol 13 - Seraja Ridgeline Snipers
+	"ArcticSoldier.json", //Patrol 14 - Object BK-T12 to Athena-1 Ridgeline
+	"ArcticSoldier.json", //Patrol 15 - C130 Crash to Athena-1 Ridgeline
+	"ForestSoldier.json", //Patrol 16 - Inland Forest (Ghillies)
+	"CivLoadout.json", //Patrol 17 - Tara North Peninsula
+	"CivLoadout.json", //Patrol 18 - Tara Port
+	"CivLoadout.json", //Patrol 19 - Tara Land Bridge
+	"SoldierLoadout.json", //Patrol 20 - Alakit/Vorkuta Tower
+	"ArcticSoldier.json", //Patrol 21 - TF Bering
+	"ForestSoldier.json", //Patrol 22 - Object A2 (Ghillies)
+	"ArcticSoldier.json", //Patrol 23 - Ice Shelf
+	"HunterLoadout.json" //Patrol 24 - Vorkuta East Forest
+};
 
 // you may change these quantities
 // const int NUMBER_PER_PATROL = 2;	// Number of AI per patrol
 const int MIN_NUMBER_PER_PATROL = 2;// Min Number of AI per patrol
-const int MAX_NUMBER_PER_PATROL = 12;// Max Number of AI per patrol
-const int MAXR = 800;				// This is the main spawn radius- how close a player needs to be to spawn them in.
-const int MINR = 250;				// If a player is this close to the patrol start point, it is too close for them to spawn
-const int DESPAWNR = 1000;			// If all players are this far away, they despawn.
+const int MAX_NUMBER_PER_PATROL = 8;// Max Number of AI per patrol
+const int MAXR = 1200;				// This is the main spawn radius- how close a player needs to be to spawn them in.
+const int MINR = 300;				// If a player is this close to the patrol start point, it is too close for them to spawn
+const int DESPAWNR = 1500;			// If all players are this far away, they despawn.
 const int RESPAWN_SECONDS = 300;	// The amount of seconds before a new patrol will spawn, after they both die
 
 class CustomPatrol : eAIDynamicPatrol {
@@ -50,7 +117,7 @@ class CustomPatrol : eAIDynamicPatrol {
 		patrol.SetFaction(new eAIFactionEast());
 		
 		// Uncomment this line to slow down or speed up the patrol (1.0 to 3.0)
-		patrol.SetSpeedLimit(1.5);
+		patrol.SetSpeedLimit(1.25);
 	}
 	override void OnUnitSpawn(eAIBase unit) {
 		// Uncomment this to give the AI unlimited magazines (new one is added on reload)
@@ -72,7 +139,7 @@ void InitDynamicPatrols() {
 	for (int i = 0; i < patrol_list.Count(); i++) {
 		string loadout = "SoldierLoadout.json"; // default
 		if (i < patrol_loadouts.Count()) loadout = patrol_loadouts[i];
-		autoptr CustomPatrol pat = new CustomPatrol(patrol_list[i][0], patrol_list[i], loadout, Math.RandomInt(MIN_NUMBER_PER_PATROL, MAX_NUMBER_PER_PATROL + 1), MINR, MAXR, DESPAWNR, RESPAWN_SECONDS);
+		autoptr CustomPatrol pat = new CustomPatrol(patrol_list[i][0], patrol_list[i], loadout, Math.RandomInt(MIN_NUMBER_PER_PATROL, MAX_NUMBER_PER_PATROL), MINR, MAXR, DESPAWNR, RESPAWN_SECONDS);
 		patrols.Insert(pat);
 		pat.UpdateTriggers();
 	}
