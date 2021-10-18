@@ -1,0 +1,106 @@
+{
+  "m_Version": 4,
+  "DisplayName": "SNAFU GRIPS",
+  "Items": [
+    {
+      "ClassName": "sa58_fgrip",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_afg_02_black",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_afg_02_od",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_afg_02_tan",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_fgcr_grip",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_fgkac_grip",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafuar15_afg",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafumpx_grip",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafuscar_afg_bk",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafuscar_afg_tan",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

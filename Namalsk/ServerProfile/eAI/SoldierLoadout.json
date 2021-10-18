@@ -1,0 +1,184 @@
+{
+    "Shirts": [
+        "GorkaEJacket_Autumn",
+        "GorkaEJacket_Flat",
+        "GorkaEJacket_PautRev",
+        "GorkaEJacket_Summer"
+    ],
+    "Pants": [
+        "GorkaPants_Autumn",
+        "GorkaPants_Flat",
+        "GorkaPants_PautRev",
+        "GorkaPants_Summer"
+    ],
+    "Shoes": [
+        "TTSKOBoots",
+        "CombatBoots_Black",
+        "CombatBoots_Brown"
+    ],
+    "BackPacks": [
+        "",
+        "",
+        "CoyoteBag_Brown",
+        "CoyoteBag_Green"
+    ],
+    "Vests": [
+        "HighCapacityVest_Black",
+        "PlateCarrierVest",
+        "UKAssVest_Camo"
+    ],
+    "Headgear": [
+        "GorkaHelmet",
+        "Mich2001Helmet",
+        "MotoHelmet_Black",
+        "SkateHelmet_Black",
+        "DirtBikeHelmet_Black"
+    ],
+    "Gloves": [
+        "WorkingGloves_Beige",
+        "WorkingGloves_Black",
+        "NBCGlovesGray",
+        "OMNOGloves_Gray",
+        "OMNOGloves_Brown"
+    ],
+    "Misc": [
+        "",
+        "CivilianBelt",
+        "MilitaryBelt"
+    ],
+    "ClothesHealth": [
+        10,
+        100
+    ],	
+    "WeaponMelee": [
+        "Pickaxe",
+        "WoodAxe",
+        "FirefighterAxe",
+        "Shovel"
+    ],
+    "WeaponRifle": [
+        "M4A1",
+        "AK74",
+		"AKM",
+		"AK101",
+		"VSS",
+		"ASVAL",
+		"TTC_HK417",
+		"TTC_SCARH",
+		"TTC_M4DMR",
+		"TTC_M14",
+		"TTC_M16A4",
+		"TTC_SG550",
+		"TTC_SG552",
+		"TTC_M110",
+		"TTC_M4Tac",
+		"TTC_Raptr",
+		"TTC_M16",
+		"TTC_KAC",
+		"TTC_AEK973",
+		"TTC_Beowulf",
+		"TTC_AACHoney",
+		"TTC_AACHoney_300blk",
+		"TTC_ModDMR556",
+		"TTC_ModDMR762",
+		"TTC_SCARL",
+		"TTC_MP5SD",
+		"TTC_MPX",
+		"TTC_MCX",
+		"TTC_AkMod",
+		"TTC_M4Tac",
+        "Expansion_G36",
+        "Expansion_MPX",
+        "Expansion_MP5",
+        "Expansion_MP7",
+        "Expansion_Kedr",
+        "Expansion_M16",
+        "GCGN_MP7",
+        "SNAFUAR15_SPR_Black_GUN",
+        "SNAFUAR15_SPR_Tan_GUN",
+        "SNAFU_AK12A",
+        "SNAFU_AK103A",
+        "SNAFU_RPK16_Black",
+        "SNAFU_RPK16_Green",
+        "SNAFU_RPK16_Tan",
+        "SNAFU_AEK545_Gun",
+        "GCGN_M4A1",
+        "GCGN_HK416",
+        "ACR_Gun",
+        "HK416_Gun",
+        "SG550_Gun",
+        "SNAFU_SR25_Gun",
+        "SNAFU_KAC_Gun",
+        "SNHK417_Gun",
+        "MK18_Gun",
+        "SCAR_Gun",
+        "GCGN_M249",
+        "Snafu_ScarH_Black_GUN",
+        "Snafu_ScarH_DKMC_GUN",
+        "Snafu_ScarH_OD_GUN",
+        "Snafu_ScarH_Snow_GUN",
+        "Snafu_ScarH_Tan_GUN",
+        "Snafu_pkp_Black_GUN",
+        "Snafu_pkp_NBlack_GUN",
+        "SNAFU_MAR10_Black_GUN",
+        "SNAFU_MP9_GUN",
+        "SNAFU_MPX_GUN",
+        "SNAFUFAMAS",
+        "SNAFUUzi",
+        "SNAFUAUG",
+        "SNAFUAUG_BK",
+        "SNAFUPPSh",
+        "SNAFU_AR15SPRBK",
+        "SNAFU_AR15SPRTAN",
+        "SNAFU_MK4710Gun",
+        "SNAFU_MK4716Gun"   
+    ],
+    "WeaponRifleMagCount": [
+        1,
+        3
+    ],
+    "WeaponHandgun": [
+        ""
+    ],
+    "WeaponHandgunMagCount": [
+        1,
+        2
+    ],	
+    "WeaponHealth": [
+        10,
+        100
+    ],
+    "Loot": [
+        "Canteen",
+		"Lunchmeat",
+		"TacticalBacon",
+		"M67Grenade",
+		"RGD5Grenade",
+		"TTC_AmmoBox_300blk_20rnd",
+		"TTC_AmmoBox_3006_20Rnd",
+		"TTC_AmmoBox_338mm_10Rnd",
+		"TTC_AmmoBox_50Beo_20Rnd",
+		"TTC_AmmoBox_50BMG_10rnd",
+		"AmmoBox_308Win_20Rnd",
+		"AmmoBox_308WinTracer_20Rnd",
+		"AmmoBox_556x45_20Rnd",
+		"AmmoBox_556x45Tracer_20Rnd",
+		"AmmoBox_762x54_20Rnd",
+		"AmmoBox_762x54Tracer_20Rnd",
+		"AmmoBox_762x39_20Rnd",
+		"AmmoBox_9x39AP_20Rnd",
+		"AmmoBox_9x39_20Rnd",
+		"AmmoBox_545x39_20Rnd",
+		"AmmoBox_545x39Tracer_20Rnd",
+		"dzn_map_namalsk",
+		"HuntingOptic"
+    ],
+    "LootRandom": [
+        "Rope",
+        "Screwdriver"
+    ],
+    "LootHealth": [
+        10,
+        100
+    ]
+}

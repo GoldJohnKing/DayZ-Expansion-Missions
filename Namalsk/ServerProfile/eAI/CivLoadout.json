@@ -1,0 +1,165 @@
+{
+    "Shirts": [
+        "Shirt_BlueCheck",
+		"Shirt_BlueCheckBright",
+		"Shirt_GreenCheck",
+		"Shirt_RedCheck",
+		"Shirt_PlaneCheck",
+		"Shirt_WhiteCheck",
+		"TShirt_Beige",
+		"TShirt_Blue",
+		"TShirt_Green",
+		"HikingJacket_Blue",
+		"HikingJacket_Red",
+		"HikingJacket_Green",
+		"QuiltedJacket_Blue",
+		"QuiltedJacket_Green",
+		"QuiltedJacket_Red",
+		"BomberJacket_Brown",
+		"BomberJacket_Maroon",
+		"JumpsuitJacket_Gray"
+    ],
+    "Pants": [
+        "SlacksPants_Blue",
+		"CanvasPants_Beige",
+		"CargoPants_Blue",
+		"JumpsuitPants_Grey",
+		"Jeans_Blue",
+		"Jeans_Brown",
+		"Jeans_Black"
+    ],
+    "Shoes": [
+        "HikingBootsLow_Blue",
+		"HikingBootsLow_Beige",
+		"AthleticShoes_Green",
+		"WorkingBoots_Green",
+		"WorkingBoots_Brown",
+		"WorkingBoots_Beige"
+    ],
+    "BackPacks": [
+		"DryBag_Blue",
+		"DryBag_Green",
+		"DryBag_Black",
+		"DryBag_Red",
+		"DryBag_Yellow",
+        "TaloonBag_Blue",
+		"TaloonBag_Green",
+		"TaloonBag_Red",
+		"TaloonBag_Violet",
+		"ChildBag_Green",
+		"ChildBag_Blue",
+		"ChildBag_Red"
+    ],
+    "Vests": [
+		"",
+		"",
+        "PoliceVest",
+		"PressVest_LightBlue",
+		"ReflexVest"
+    ],
+    "Headgear": [
+        "BaseballCap_Blue",
+		"BaseballCap_Olive",
+		"BaseballCap_Pink",
+		"BaseballCap_Red",
+		"BaseballCap_Beige",
+		"BaseballCap_Camo",
+		"BeanieHat_Grey",
+		"BeanieHat_Red",
+		"BeanieHat_Beige",
+		"BeanieHat_Pink",
+		"BeanieHat_Green",
+		"BoonieHat_Blue",
+		"BoonieHat_Tan",
+		"BoonieHat_Orange",
+		"BoonieHat_Red",
+		"SantasHat"
+    ],
+    "Gloves": [
+		"",
+		"",
+        "SurgicalGloves_Blue",
+		"WorkingGloves_Black",
+		"WorkingGloves_Yellow",
+		"SurgicalGloves_Green"
+    ],
+    "Misc": [
+		"",
+        "CivilianBelt"
+    ],
+    "ClothesHealth": [
+        25,
+        100
+    ],
+    "WeaponMelee": [
+        "MeleeBat"
+    ],
+    "WeaponRifle": [
+        "Ruger1022",
+		"SKS",
+		"Scout",
+		"Scout",
+		"Scout",
+		"AKS74U",
+		"MP5K",
+		"MP5K",
+		"TTC_MPX",
+		"TTC_PP91",
+		"TTC_UZI",
+		"CZ75",
+		"CZ61",
+		"CZ61"
+    ],
+    "WeaponRifleMagCount": [
+        1,
+        2
+    ],
+    "WeaponHandgun": [
+        "MakarovIJ70",
+		"CZ75"
+    ],
+    "WeaponHandgunMagCount": [
+        1,
+        2
+    ],
+    "WeaponHealth": [
+        25,
+        100
+    ],
+    "Loot": [
+        "SodaCan_Cola",
+		"SodaCan_Spite",
+		"SodaCan_Pipsi",
+		"WaterBottle",
+        "Screwdriver",
+		"Battery9V",
+        "NailBox",
+		"Rag",
+		"BurlapStrip",
+		"AmmoBox_22_50Rnd",
+		"AmmoBox_762x39_20Rnd",
+		"AmmoBox_45ACP_25Rnd",
+		"AmmoBox_9x19_25Rnd",
+		"AmmoBox_380_35Rnd",
+		"AmmoBox_00buck_10rnd",
+		"AmmoBox_12gaSlug_10Rnd",
+		"AmmoBox_22_50Rnd",
+		"AmmoBox_12gaRubberSlug_10Rnd",
+		"AmmoBox_12ga_Beanbag_10Rnd",
+		"SteakKnife",
+		"KitchenKnife",
+		"MatchBox",
+        "PeachesCan",
+        "Pot",
+        "Potato",
+		"Roadflare",
+        "Pliers"
+    ],
+    "LootRandom": [
+        "Screwdriver"
+    ],
+    "LootHealth": [
+        25,
+        100
+    ]
+}

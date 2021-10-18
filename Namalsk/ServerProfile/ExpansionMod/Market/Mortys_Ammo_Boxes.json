@@ -1,0 +1,106 @@
+{
+    "m_Version": 4,
+    "DisplayName": "MORTYS AMMO-BOXES",
+    "Items": [
+        {
+            "ClassName": "TTC_AmmoBox_8mm_20Rnd",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 200,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_AmmoBox_300blk_20rnd",
+            "MaxPriceThreshold": 8000,
+            "MinPriceThreshold": 4000,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_AmmoBox_338mm_10Rnd",
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 2000,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_AmmoBox_50Beo_20rnd",
+            "MaxPriceThreshold": 8000,
+            "MinPriceThreshold": 4000,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_Ammobox_50BMG_10rnd",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_AmmoBox_303_20Rnd",
+            "MaxPriceThreshold": 8000,
+            "MinPriceThreshold": 4000,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_AmmoBox_3006_20Rnd",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_AmmoBox_4570_20Rnd",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_AmmoBox_4630_20Rnd",
+            "MaxPriceThreshold": 8000,
+            "MinPriceThreshold": 4000,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_AmmoBox_792x33_20Rnd",
+            "MaxPriceThreshold": 8000,
+            "MinPriceThreshold": 4000,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

@@ -1,0 +1,629 @@
+{
+    "m_Version": 4,
+    "DisplayName": "MORTYS WEAPONS",
+    "Items": [
+        {
+            "ClassName": "TTC_KAC",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_MAS36",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_Winchester1873",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_kar98k",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_R700",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_R700_Black"
+            ]
+        },
+        {
+            "ClassName": "TTCSR25",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTCSR25_Desert",
+                "TTCSR25_Snow",
+                "TTCSR25_OD"
+            ]
+        },
+        {
+            "ClassName": "TTC_HK416Tan",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_HK416OD",
+                "TTC_HK416Black"
+            ]
+        },
+        {
+            "ClassName": "TTC_SG552",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_SG552_Wood",
+                "TTC_SG552_Black"
+            ]
+        },
+        {
+            "ClassName": "TTC_SG550",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_SG550_Black",
+                "TTC_SG550_Pink"
+            ]
+        },
+        {
+            "ClassName": "TTC_M16",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_AEK973",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_M4DMR",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_M4DMROD",
+                "TTC_M4DMRDesert"
+            ]
+        },
+        {
+            "ClassName": "TTC_FD338",
+            "MaxPriceThreshold": 40000,
+            "MinPriceThreshold": 20000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_AACHoney",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_AACHoney_B",
+                "TTC_AACHoney_300blk",
+                "TTC_AACHoney_300blk_B"
+            ]
+        },
+        {
+            "ClassName": "TTC_M24",
+            "MaxPriceThreshold": 40000,
+            "MinPriceThreshold": 20000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_M24_Bjorn",
+                "TTC_M24_Woodland",
+                "TTC_M24_WoodlandOld"
+            ]
+        },
+        {
+            "ClassName": "TTC_SCARHBlack",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_SCARL",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_SCARLSnow",
+                "TTC_SCARLBlack"
+            ]
+        },
+        {
+            "ClassName": "TTC_M16A4",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_Beowulf",
+            "MaxPriceThreshold": 40000,
+            "MinPriceThreshold": 20000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_M82",
+            "MaxPriceThreshold": 80000,
+            "MinPriceThreshold": 40000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_M82_Tan"
+            ]
+        },
+        {
+            "ClassName": "TTC_HKG28",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_HKG28_Black"
+            ]
+        },
+        {
+            "ClassName": "TTC_LeeEnfield",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_M1Garand",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_M4Tac",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_M4Tac_Black"
+            ]
+        },
+        {
+            "ClassName": "TTC_M14",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_M14_Camo",
+                "TTC_M14_Snow"
+
+            ]
+        },
+        {
+            "ClassName": "TTC_MRAD",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_XM2010",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_AK12",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_AK12_Worn"
+            ]
+        },
+        {
+            "ClassName": "TTC_G3",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_Kimber",
+            "MaxPriceThreshold": 7500,
+            "MinPriceThreshold": 3750,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_Mossberg",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_M9",
+            "MaxPriceThreshold": 7500,
+            "MinPriceThreshold": 3750,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_AKMod",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_AKMod_Gold",
+                "TTC_AKMod_Snow",
+                "TTC_AKMod_Multi",
+                "TTC_AKMod_Digi",
+                "TTC_AKMod_Tan"
+            ]
+        },
+        {
+            "ClassName": "TTC_AKModPK",
+            "MaxPriceThreshold": 25000,
+            "MinPriceThreshold": 12500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_AKModPK_Gold",
+                "TTC_AKModPK_Snow",
+                "TTC_AKModPK_Multi",
+                "TTC_AKModPK_Digi",
+                "TTC_AKModPK_Tan"
+            ]
+        },
+        {
+            "ClassName": "TTC_M110",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_M110_Black"
+            ]
+        },
+        {
+            "ClassName": "TTC_Maverick",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_AG3",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 22500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_FAL",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 22500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_Raptr",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 22500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_M24_NEW_Wood",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 22500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_M24_NEW_Black",
+                "TTC_M24_NEW_Camo",
+                "TTC_M24_NEW_CamoW"
+            ]
+        },
+        {
+            "ClassName": "TTC_CAR15",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 22500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_M1903",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 22500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_MCX",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 22500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_MCX_Tan",
+                "TTC_MCX_300blk",
+                "TTC_MCX_Tan_300blk"
+            ]
+        },
+        {
+            "ClassName": "TTC_AKM",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 22500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_Deagle",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 22500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_Glock17",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 22500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_M9_Custom",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 22500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_MP5SD",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 22500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_MPX",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 22500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_PP91",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 22500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_UZI",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 22500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_MP7A1",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 22500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_SVT40",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 22500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_M4DMRSNOW",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_STG44",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_BAR",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

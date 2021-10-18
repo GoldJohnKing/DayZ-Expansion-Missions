@@ -1,0 +1,69 @@
+{
+    "m_Version": 4,
+    "DisplayName": "MORTYS WEAPON ATTACHMENTS",
+    "Items": [
+        {
+            "ClassName": "TTC_DMR_Hndguard",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 125,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_DMR_HndguardOD",
+                "TTC_DMR_HndguardDesert",
+                "TTC_DMR_HndguardSnow"
+            ]
+        },
+        {
+            "ClassName": "TTC_AKMod_Hndguard",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 125,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_AKMod_Gold_Hndguard",
+                "TTC_AKMod_Snow_Hndguard",
+                "TTC_AKMod_Multi_Hndguard",
+                "TTC_AKMod_Digi_Hndguard",
+                "TTC_AKMod_Tan_Hndguard"
+            ]
+        },
+        {
+            "ClassName": "TTC_FAL_RIS_Hndgrd",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 125,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_FAL_Wood_Hndgrd",
+                "TTC_FAL_Poly_Hndgrd"
+            ]
+        },
+        {
+            "ClassName": "TTC_Pistol_Light",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 125,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_SVT40_Bayonet",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 125,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

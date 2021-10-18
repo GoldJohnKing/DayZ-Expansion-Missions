@@ -1,0 +1,116 @@
+{
+    "m_Version": 4,
+    "DisplayName": "MORTYS SUPPRESSORS",
+    "Items": [
+        {
+            "ClassName": "TTC_Universal_Suppressor_BLACK",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_Universal_Suppressor_CAMO",
+                "TTC_Universal_Suppressor_Tan",
+                "TTC_Universal_Suppressor_Snow"
+            ]
+        },
+        {
+            "ClassName": "TTC_Honey_Suppressor",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_DMR_Suppressor",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_DMR_AFG",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_DMR_AFG_Green",
+                "TTC_DMR_AFG_Tan"
+            ]
+        },
+        {
+            "ClassName": "TTC_DMR_VFG",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_DMR_VFG_Green",
+                "TTC_DMR_VFG_Tan"
+            ]
+        },
+        {
+            "ClassName": "TTC_DMR_Bipod",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_M14Suppressor",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_AKMOD_AFG",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_AKMod_Suppressor",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_PistolSuppressor",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

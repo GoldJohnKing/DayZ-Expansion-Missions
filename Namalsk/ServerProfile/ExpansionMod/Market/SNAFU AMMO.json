@@ -1,0 +1,126 @@
+{
+  "m_Version": 4,
+  "DisplayName": "SNAFU AMMO",
+  "Items": [
+    {
+      "ClassName": "gcgn_ammo_3006",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "gcgn_ammo_762x51",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_ammo_127x55mm",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_ammo_145cal",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_ammo_300acc",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_ammo_44",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_ammo_45_70mm",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_ammo_46x30",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_ammo_5_7x28mm",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_ammo_500_sw",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_ammo_762x25",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_md_ammo_556x45mm_m855a1",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+    "m_Version": 4,
+    "DisplayName": "MORTYS OPTICS",
+    "Items": [
+        {
+            "ClassName": "TTC_G3_Optic",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 2500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_BugBuster",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 2500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_Holo",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 2500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_HAMR",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 2500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_Razor",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 2500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_G28_Optic",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 2500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_G28_Optic_Black"
+            ]
+        },
+        {
+            "ClassName": "TTC_Aimpoint2000",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 2500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

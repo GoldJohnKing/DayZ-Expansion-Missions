@@ -1,0 +1,186 @@
+{
+  "m_Version": 4,
+  "DisplayName": "SNAFU EXTRAS",
+  "Items": [
+    {
+      "ClassName": "gcgn_m1garand_bayonet",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "gcgn_m1garand_flashhider",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_556_barrel10",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_556_barrel14",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_556_barrel14_dv",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_556_barrel16",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_ak_mount_base",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_gigripcolta2",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_hunting_mount_base",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_mosin_mount_base",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_peq1_laser",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_pistolgripcolta2",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_sks_bayonet",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_tacgripcolta2_bk",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_tacgripcolta2_grey",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_tacgripcolta2_od",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_tacgripcolta2_tan",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafuuniversallight",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

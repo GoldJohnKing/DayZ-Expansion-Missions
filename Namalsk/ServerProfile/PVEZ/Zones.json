@@ -1,0 +1,184 @@
+[
+    {
+        "Type": 0,
+        "Name": "Military BK-M06",
+        "X": 4831.0,
+        "Z": 10841.0,
+        "Radius": 750,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Military BK-T07",
+        "X": 4406.0,
+        "Z": 10739.0,
+        "Radius": 750,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Sebjan reservour pass 1",
+        "X": 5566.0,
+        "Z": 9974.0,
+        "Radius": 750,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Sebjan reservour pass 2",
+        "X": 6185.0,
+        "Z": 10034.0,
+        "Radius": 750,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Sebjan reservour pass 3",
+        "X": 6801.0,
+        "Z": 9958.0,
+        "Radius": 750,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Military BK-T08",
+        "X": 3941.0,
+        "Z": 10003.0,
+        "Radius": 750,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Refugee camp",
+        "X": 5167.0,
+        "Z": 8962.0,
+        "Radius": 750,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Military BK-T12",
+        "X": 4074.0,
+        "Z": 9234.0,
+        "Radius": 750,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Athena-2",
+        "X": 4982.0,
+        "Z": 6548.0,
+        "Radius": 750,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Military BK-L01",
+        "X": 4161.0,
+        "Z": 6646.0,
+        "Radius": 750,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Military BK-L02",
+        "X": 3405.0,
+        "Z": 6734.0,
+        "Radius": 750,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Military BK-L16",
+        "X": 5992.0,
+        "Z": 6632.0,
+        "Radius": 750,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Bering outpost",
+        "X": 1230.0,
+        "Z": 11836.0,
+        "Radius": 750,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    }
+]

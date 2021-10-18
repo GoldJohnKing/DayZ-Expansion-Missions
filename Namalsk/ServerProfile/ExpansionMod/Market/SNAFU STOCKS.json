@@ -1,0 +1,96 @@
+{
+  "m_Version": 4,
+  "DisplayName": "SNAFU STOCKS",
+  "Items": [
+    {
+      "ClassName": "sa58_stock",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_ak_ar_stock",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_m4ss_stock",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_moe_stock",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_prsgen3_stock",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_sadar_stock",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_sba_stock",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_scqr_stock",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_ubr_stock",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

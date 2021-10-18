@@ -1,0 +1,176 @@
+{
+  "m_Version": 4,
+  "DisplayName": "SNAFU HANDGUARDS",
+  "Items": [
+    {
+      "ClassName": "snafu_gadar",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_hg625",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_hggs",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_hgmlok",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_hgmlok_tan",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_lvoahg",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_mcmr07",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_mcmr08",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_mcmr09",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_mcmr10",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_mcmr13",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_mcmr15",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_mk10",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_mk13",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_mk15",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_mk7",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_mk9",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

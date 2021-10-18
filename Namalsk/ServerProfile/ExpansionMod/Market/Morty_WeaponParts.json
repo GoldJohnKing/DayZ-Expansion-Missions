@@ -1,0 +1,66 @@
+{
+    "m_Version": 4,
+    "DisplayName": "MORTYS WEAPON PARTS",
+    "Items": [
+        {
+            "ClassName": "TTC_DMR_Barrel_556",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_DMR_Barrel_762",
+            "MaxPriceThreshold": 11000,
+            "MinPriceThreshold": 5500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_DMR_RifleFrame",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_AKMod_Barrel_76239",
+            "MaxPriceThreshold": 11000,
+            "MinPriceThreshold": 5500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_AKMod_Barrel_76254",
+            "MaxPriceThreshold": 11000,
+            "MinPriceThreshold": 5500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_AKMod_RifleFrame",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}
