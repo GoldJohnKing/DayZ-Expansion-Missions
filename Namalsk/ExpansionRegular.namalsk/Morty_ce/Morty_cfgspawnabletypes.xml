@@ -700,8 +700,8 @@
 		<attachments chance="0.30">
 			<item name="TTC_UZI_Mag_30rnd" chance="1.00" />
 		</attachments>
-	<!-- Update 1.13.2 -->
 	</type>
+	<!-- Update 1.13.2 -->
 	<type name="TTC_SVT40">
 		<attachments chance="0.30">
 			<item name="TTC_SVT40_Optic" chance="1.00" />

@@ -28,4 +28,9 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="Morty_types.xml" type="types" />
 		<file name="Morty_cfgspawnabletypes.xml" type="spawnabletypes" />
 	</ce>
+	<!-- SNAFU Weapons -->
+	<ce folder="SNAFU_ce">
+		<file name="SNAFU_types.xml" type="types" />
+		<file name="SNAFU_cfgspawnabletypes.xml" type="spawnabletypes" />
+	</ce>
 </economycore>
